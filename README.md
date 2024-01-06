@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzamalik22&label=Profile%20views&color=0e75b6&style=flat" alt="hamzamalik22" /> </p>
 
-- 🌱 I’m currently learning **js, React and Front-end**
+- 🌱 I’m aiming to learning **js, React and Front-end**
 
 - 💬 Ask me about **python,django & web development**
 
