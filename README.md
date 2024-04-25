@@ -1,11 +1,9 @@
 <h1 align="center">Hamza Malik</h1>
-<h3 align="center">A passionate Back-end Web Developer & Python dev</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzamalik22&label=Profile%20views&color=0e75b6&style=flat" alt="hamzamalik22" /> </p>
+<h3 align="center">A Passionate Back-end Web Developer & Python Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/hamzamalik22" title="Linkedin">
-    <img src="https://img.shields.io/badge/Hamza%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Hamza Malik%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -24,13 +22,7 @@ const profile = {
     }
 }
 ```
-<p align="center" style="text-align: center; width:100%;">
-  <h6>I CAN SPEAK</h6>
-  <span><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></span>
-  <span><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/></span>
-</p>
+
 
 - 🌱 I’m aiming to learning **js, React and Front-end**
 
