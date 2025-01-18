@@ -14,7 +14,7 @@ const profile = {
     country: 'Pakistan',
     province: 'Punjab',
     city: 'Jhelum / Taxila',
-    Status: 'Full Stack Developer to be',
+    Status: 'Full Stack Developer',
     hired: false,
     hireMe() {
         this.hired = true;
