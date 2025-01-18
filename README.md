@@ -24,7 +24,7 @@ const profile = {
 ```
 
 
-- 🌱 I’m aiming to learning **React and Advanced Frontend**
+- 🌱 I’m aiming to learn advanced backend topics and AI-based development.
 
 - 💬 Ask me about **python,django & web development**
 
