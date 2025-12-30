@@ -85,9 +85,9 @@ I am a backend oriented full stack engineer transitioning deeply into AI and Com
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hamzamalik22&show_icons=true&theme=dracula&hide_border=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzamalik22&layout=compact&theme=dracula&hide_border=true" height="160" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hamzamalik22&theme=dracula&show_icons=true" height="160" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hamzamalik22&layout=compact&theme=dracula" height="160" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzamalik22&theme=dracula&hide_border=true" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzamalik22&theme=dracula&hide_border=true" /> -->
 
 </div>
