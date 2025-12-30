@@ -2,6 +2,8 @@
 
 Hi, I'm Hamza Abdul Jabbar 👋
 
+**AI Researcher | Computer Vision | Full Stack Engineer**
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=AI+Researcher+(Computer+Vision);Full+Stack+Developer;Python+Specialist;Building+Intelligent+Systems" alt="Typing SVG" />
 </a>
@@ -37,12 +39,16 @@ const researcher = {
 
 ## 🧐 About Me
 
-- 🔭 Conducting research in Computer Vision architectures
-- 🌱 Experienced with advanced backend systems and React Native
-- 💬 Ask me about Python, Django, OpenCV, and Deep Learning
-- ⚡ Fun fact: I hate semicolons, moved to Python, never looked back 🐍
+I am a backend oriented full stack engineer transitioning deeply into AI and Computer Vision research. My background is rooted in Python, Django, and production grade APIs, with strong experience building cross platform mobile applications using React Native.
+
+- 🔭 Researching Computer Vision architectures and deep learning models
+- 🌱 Strong focus on backend engineering and mobile first development
+- 💬 Ask me about Python, Django, React Native, OpenCV, and PyTorch
+- ⚡ Fun fact: I dislike semicolons, switched to Python, never looked back 🐍
 
 ## 🧠 AI & Computer Vision Stack
+
+**Core research and experimentation tools**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -54,19 +60,24 @@ const researcher = {
 
 ## 💻 Full Stack Engineering
 
+**Backend first, mobile focused, production ready systems**
+
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native_(Expo)-000020?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 ## 🛠️ Languages & Tools
 
+**Languages and tooling I actively use**
+
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
